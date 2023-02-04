@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Tyagi</h1>
-<h3 align="center">I am a passionate Full-Stack Web Developer with great skills of coding and good knowledge of Data Structure & Algorithm.</h3>
+<h3 align="center">I am a passionate Full-Stack Web Developer with great coding skills and good knowledge of Data Structure & Algorithm.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-t-y-a-g-i&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-t-y-a-g-i" /> </p>
 
