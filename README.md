@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Himanshu Tyagi</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Tyagi</h1> 
+
 <h3 align="center">I am a passionate Full-Stack Web Developer with great coding skills and good knowledge of Data Structure & Algorithm.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-t-y-a-g-i&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-t-y-a-g-i" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu-t-y-a-g-i" alt="himanshu-t-y-a-g-i" /></a> </p>
-
+<img align="right" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" />
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [himanshu-t-y-a-g-i.github.io](himanshu-t-y-a-g-i.github.io)
@@ -12,6 +9,9 @@
 - 📫 How to reach me **Himanshutyagi0158@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZYOTfu4oSRb4OW0eHw2ToaDSWj04wYvF/view?usp=sharing](https://drive.google.com/file/d/1ZYOTfu4oSRb4OW0eHw2ToaDSWj04wYvF/view?usp=sharing)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu-t-y-a-g-i" alt="himanshu-t-y-a-g-i" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
