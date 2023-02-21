@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **Himanshutyagi0158@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZYOTfu4oSRb4OW0eHw2ToaDSWj04wYvF/view?usp=sharing](https://drive.google.com/file/d/1ZYOTfu4oSRb4OW0eHw2ToaDSWj04wYvF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dADDjdbFOyaUgFNYYm3ptKvPTE84Bgbe/view?usp=share_link](My Resume)
 
 
 
