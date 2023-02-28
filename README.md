@@ -4,7 +4,7 @@
 <img align="right" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" />
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [himanshu-t-y-a-g-i.github.io](himanshu-t-y-a-g-i.github.io)
+- 👨‍💻 All of my projects are available at [my portfolio](https://himanshu-t-y-a-g-i.github.io)
 
 - 📫 How to reach me **Himanshutyagi0158@gmail.com**
 
