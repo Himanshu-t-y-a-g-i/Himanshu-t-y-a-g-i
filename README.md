@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Tyagi</h1> 
 
 <h3 align="center">I am a passionate Full-Stack Web Developer with great coding skills and good knowledge of Data Structure & Algorithm.</h3>
-<img align="right" width="45%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="50%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 - 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://himanshu-t-y-a-g-i.github.io)
