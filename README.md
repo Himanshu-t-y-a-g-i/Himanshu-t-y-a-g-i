@@ -1,3 +1,5 @@
+<img width="100%" src="https://user-images.githubusercontent.com/103588575/229911746-4176c7fc-dbb0-4f92-a2ae-903e51ffbae5.jpg" alt="something went wrong" />
+
 <h1 align="center">Hi 👋, I'm Himanshu Tyagi</h1> 
 
 <h3 align="center">I am a passionate Full-Stack Web Developer with great coding skills and good knowledge of Data Structure & Algorithm.</h3>
