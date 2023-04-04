@@ -1,4 +1,4 @@
-<img width="100%" src="https://user-images.githubusercontent.com/103588575/229911746-4176c7fc-dbb0-4f92-a2ae-903e51ffbae5.jpg" alt="something went wrong" />
+<img width="100%" src="https://user-images.githubusercontent.com/103588575/229912405-fbe0faa4-82dc-4d7b-b800-6983a1786482.jpg" alt="something went wrong" />
 
 <h1 align="center">Hi 👋, I'm Himanshu Tyagi</h1> 
 
