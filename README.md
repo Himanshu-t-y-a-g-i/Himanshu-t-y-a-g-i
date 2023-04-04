@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a passionate Full-Stack Web Developer with great coding skills and good knowledge of Data Structure & Algorithm.</h3>
 <img align="right" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" />
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://himanshu-t-y-a-g-i.github.io)
 
