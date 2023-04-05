@@ -6,7 +6,7 @@
 <img align="right" width="50%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [my portfolio](himanshu-t-y-a-g-i.github.io)
+- 👨‍💻 All of my projects are available at [my portfolio](https://himanshu-t-y-a-g-i.github.io)
 
 - 📫 How to reach me **Himanshutyagi0158@gmail.com**
 
